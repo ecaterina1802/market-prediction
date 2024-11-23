@@ -13,7 +13,7 @@ The **Stock Market Prediction App** is a Python-based application designed to pr
 ## Installation
 
 ### Prerequisites
-Before using the Stock Market Prediction App, ensure you have Python 3.x installed on your system. You'll also need to install the required dependencies:
+Before using the Stock Market Prediction App, ensure you have Python 3.9 installed on your system. You'll also need to install the required dependencies:
 
 1. **Install dependencies**:
    - To install the required Python libraries, use `pip`:
