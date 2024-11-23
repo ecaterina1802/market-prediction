@@ -1,0 +1,37 @@
+Application Name: Stock Market Prediction App
+
+Version: 1.0
+
+Description:
+This application predicts stock prices using historical data. It uses machine learning (Linear Regression) to predict the closing price of a stock based on the previous day's closing price. The application visualizes the actual vs predicted stock prices and prints out the predicted price for the next day.
+
+Features:
+- Load stock market data from a CSV file.
+- Predict future stock prices based on previous day's closing price.
+- Plot actual vs predicted stock prices.
+- Print the predicted stock price for the next day.
+
+How to Use:
+1. Run the `create_csv.py` script to generate a CSV file with historical stock data.
+2. Run the `main.py` script to train a model and predict stock prices.
+3. The app will display the actual and predicted stock prices in a plot.
+4. The predicted closing price for the next day will be printed in the console.
+
+Dependencies:
+- pandas: For data handling and manipulation.
+- numpy: For numerical operations.
+- scikit-learn: For machine learning model (Linear Regression).
+- matplotlib: For plotting graphs.
+
+Installation:
+1. Install dependencies:
+   Run the following command to install the required libraries:
+
+2. Run the application:
+Execute `main.py` after ensuring that the CSV file `your_dataset.csv` is created.
+
+
+Author: Ecaterina Constantin
+Assignment: Project!
+Due date: 28.11.2024
+
